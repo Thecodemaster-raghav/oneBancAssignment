@@ -15,11 +15,6 @@
 
 * Amounts shown in the transaction list items are pretty formatted according to the Indian format. For example, 135600 will show up as 1,35,600
 
-##### What I had aimed for, but could not finish:
-* Auto-load more items when the list is scrolled to bottom. I wanted to create this manually instead of relying on a library. But it's also pretty easy to do so. Simply register a scroll listener and auto-load items when the end is reached.
-
-* Unit tests. However, since MVP was followed, doing automated unit would have been pretty easy.
-
 * Transaction details
 
 * All transactions with a specific user
